@@ -37,6 +37,6 @@ Client ID `407956414478-xxxxxx.apps.googleusercontent.com`
 接受這些 HTTP 參照網址 (網站) 發出的要求 (選填)  
 HTTP 參照網址 (網站)  
 已授權的 JavaScript 來源
-`http://jacobhsu.github.io`  
+`https://jacobhsu.github.io`  
 已授權的重新導向 URI
-`http://jacobhsu.github.io/js-google-api`  
+`https://jacobhsu.github.io/js-google-api`  
